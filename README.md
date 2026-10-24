@@ -10,3 +10,6 @@ Este es mi portafolio personal web desarrollado como parte de la Actividad Integ
 
 ## Instrucciones
 Para visualizar el proyecto, simplemente clona este repositorio y abre el archivo `index.html` en cualquier navegador web.
+
+## Captura de pantalla
+![Vista previa de mi portafolio web](img/CapturaPagina.png)
